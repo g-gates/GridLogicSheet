@@ -55,8 +55,6 @@ AppImage（ZIP 展開後の GridLogicSheet-2026.06.08/ 内）:
 
 ## 開発記・お知らせ
 
-- Note: 【公開後に Note 記事 URL を挿入】
-
----
+https://note.com/lc_gate_grid/n/n871a3ba155a9
 
 **このリポジトリには配布物のみを置いています。ソースコードは公開していません。**
