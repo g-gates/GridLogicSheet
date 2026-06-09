@@ -9,7 +9,7 @@ Excel の代替ではありません。α版として無償提供しています
 
 | 版 | ファイル | 内容 |
 |----|----------|------|
-| 2026.06.08 | `GridLogicSheet-2026.06.08.zip` | アプリ本体（AppImage）+ 日本語 README / Docs |
+| 2026.06.08 | [`GridLogicSheet-2026.06.08.zip`](https://github.com/g-gates/GridLogicSheet/releases/download/2026.06.08/GridLogicSheet-2026.06.08.zip) | アプリ本体（AppImage）+ 日本語 README / Docs |
 | 2026.06.08 | [`GridLogicSheet-2026.06.08-docs-en.zip`](https://github.com/g-gates/GridLogicSheet/releases/download/2026.06.08/GridLogicSheet-2026.06.08-docs-en.zip) | **英語ドキュメントのみ**（アプリ本体は上記と同一バイナリ） |
 
 ### SHA256
@@ -75,7 +75,7 @@ It is **not** a separate English application build.
 
 | Version | File | Contents |
 |---------|------|----------|
-| 2026.06.08 | `GridLogicSheet-2026.06.08.zip` | Application (AppImage) + Japanese README / Docs |
+| 2026.06.08 | [`GridLogicSheet-2026.06.08.zip`](https://github.com/g-gates/GridLogicSheet/releases/download/2026.06.08/GridLogicSheet-2026.06.08.zip) | Application (AppImage) + Japanese README / Docs |
 | 2026.06.08 | [`GridLogicSheet-2026.06.08-docs-en.zip`](https://github.com/g-gates/GridLogicSheet/releases/download/2026.06.08/GridLogicSheet-2026.06.08-docs-en.zip) | **English documentation only** (same AppImage binary as above) |
 
 ### SHA256
